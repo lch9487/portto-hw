@@ -16,3 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Use `axios` and `react-query` to fetch data.
 - Use `chakra-ui` for fast deveopment.
 - Use `react-intersection-observer` to do `infinite scroll`.
+
+## Deploy on Vercel
+
+https://portto-hw.vercel.app/
